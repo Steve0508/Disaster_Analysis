@@ -1,0 +1,56 @@
+disaster_name,disaster_type,location,country,region,start_date,end_date,population_affected,economic_loss,relief_measures_taken,severity_level,deaths
+Disaster 1,Tsunami,City 1,Indonesia,Asia,2018-11-21,2018-12-08,599097,67618622.33,"Evacuation, Shelter",Severe,1708
+Disaster 2,Tsunami,City 2,Brazil,North America,2006-11-19,2006-11-28,757595,761020965.43,"Evacuation, Shelter",Low,4155
+Disaster 3,Wildfire,Village 3,Japan,Asia,2017-12-11,2018-01-06,531322,381960752.94,"Evacuation, Shelter",Low,6521
+Disaster 4,Drought,Village 4,Brazil,South America,2004-09-14,2004-10-14,742863,996534275.63,"Food Aid, Medical Camp",High,66
+Disaster 5,Wildfire,Town 5,Indonesia,Asia,2005-10-06,2005-11-02,851901,961405686.92,"Water Supply, Sanitation",Moderate,5586
+Disaster 6,Earthquake,Town 6,Indonesia,Asia,2020-04-02,2020-04-23,235802,114359582.15,Rehabilitation Programs,Moderate,7542
+Disaster 7,Wildfire,City 7,Australia,Oceania,2014-11-22,2014-12-05,962607,792069524.17,"Food Aid, Medical Camp",Low,5953
+Disaster 8,Flood,City 8,Australia,Asia,2002-06-26,2002-07-03,832678,574440941.61,Rehabilitation Programs,Moderate,7039
+Disaster 9,Drought,City 9,Brazil,North America,2005-04-25,2005-05-05,813749,258071397.79,"Food Aid, Medical Camp",Moderate,1761
+Disaster 10,Tsunami,City 10,China,Asia,2006-03-28,2006-04-25,880835,278522999.19,Rehabilitation Programs,Severe,9832
+Disaster 11,Flood,Town 11,Indonesia,Asia,2007-07-29,2007-08-22,727565,481997556.09,"Evacuation, Shelter",High,3801
+Disaster 12,Drought,Village 12,USA,Oceania,2018-08-17,2018-09-14,515483,18533019.07,"Food Aid, Medical Camp",Severe,253
+Disaster 13,Earthquake,Town 13,Australia,North America,2005-04-13,2005-05-01,790365,208288855.38,"Water Supply, Sanitation",Moderate,4052
+Disaster 14,Cyclone,City 14,Indonesia,Asia,2014-03-28,2014-04-11,557331,826690072.72,"Water Supply, Sanitation",High,1003
+Disaster 15,Cyclone,Town 15,India,Asia,2019-10-18,2019-11-10,827319,183188766.3,"International Aid, Medical",Low,1993
+Disaster 16,Wildfire,City 16,Australia,South America,2015-02-10,2015-03-02,71644,371687574.15,"Evacuation, Shelter",Moderate,3274
+Disaster 17,Wildfire,Village 17,India,Asia,2019-09-11,2019-09-18,251607,640537714.93,Rehabilitation Programs,High,8103
+Disaster 18,Earthquake,City 18,Japan,Asia,2015-04-02,2015-04-15,815382,413191889.73,"Water Supply, Sanitation",Moderate,5205
+Disaster 19,Flood,City 19,Australia,North America,2014-09-23,2014-09-26,768020,661122425.31,Rehabilitation Programs,Low,2306
+Disaster 20,Flood,City 20,Brazil,North America,2015-09-10,2015-10-10,549060,57204407.9,"Water Supply, Sanitation",Low,9344
+Disaster 21,Tsunami,City 21,Brazil,Oceania,2010-09-28,2010-10-15,242132,577741011.65,"Evacuation, Shelter",Extreme,3685
+Disaster 22,Wildfire,Village 22,Australia,North America,2006-08-04,2006-08-21,697182,402347534.35,"International Aid, Medical",Extreme,9203
+Disaster 23,Earthquake,City 23,Brazil,Oceania,2011-02-13,2011-03-10,21572,259454796.32,Rehabilitation Programs,High,3746
+Disaster 24,Drought,City 24,Australia,Oceania,2019-03-08,2019-03-17,591980,667106261.96,"Evacuation, Shelter",High,5089
+Disaster 25,Cyclone,City 25,Indonesia,Asia,2007-04-03,2007-04-24,396950,308359631.42,"Food Aid, Medical Camp",Severe,8346
+Disaster 26,Earthquake,City 26,China,Asia,2017-11-15,2017-11-23,844487,238174375.9,"Food Aid, Medical Camp",Moderate,164
+Disaster 27,Flood,Village 27,Japan,Asia,2021-09-02,2021-09-10,271240,30431954.16,"Water Supply, Sanitation",Low,4140
+Disaster 28,Cyclone,Village 28,USA,Oceania,2004-06-20,2004-06-23,303322,244911331.24,"International Aid, Medical",Low,2410
+Disaster 29,Cyclone,Town 29,Indonesia,Asia,2012-07-12,2012-07-16,980368,257273034.79,Rehabilitation Programs,High,2745
+Disaster 30,Wildfire,City 30,India,Asia,2014-05-01,2014-05-15,691682,106193906.51,"Water Supply, Sanitation",Severe,2773
+Disaster 31,Tsunami,Village 31,Brazil,Oceania,2006-07-17,2006-07-25,98531,145648971.28,"Evacuation, Shelter",Extreme,4290
+Disaster 32,Flood,Town 32,Indonesia,Asia,2016-01-18,2016-02-06,61699,508984437.21,"Food Aid, Medical Camp",Severe,7706
+Disaster 33,Cyclone,Village 33,Australia,South America,2020-12-17,2021-01-03,576309,44155380.93,"Food Aid, Medical Camp",Low,2567
+Disaster 34,Tsunami,City 34,Japan,Asia,2014-09-19,2014-09-23,382297,126011873.19,"Water Supply, Sanitation",Moderate,8162
+Disaster 35,Tsunami,Town 35,India,Asia,2001-04-26,2001-05-19,858862,110515334.57,"International Aid, Medical",Extreme,8528
+Disaster 36,Earthquake,City 36,Australia,South America,2002-12-29,2002-12-31,471811,271350305.7,"Evacuation, Shelter",Moderate,6320
+Disaster 37,Tsunami,Village 37,Indonesia,Asia,2005-10-14,2005-11-11,80291,459702813.17,"Food Aid, Medical Camp",Severe,8486
+Disaster 38,Tsunami,City 38,USA,Asia,2017-01-11,2017-02-03,237299,507501829.2,"International Aid, Medical",Low,7855
+Disaster 39,Earthquake,Town 39,India,Asia,2001-07-02,2001-07-18,362530,563312906.29,"Water Supply, Sanitation",High,8533
+Disaster 40,Flood,Town 40,USA,South America,2004-03-20,2004-03-22,820024,68248411.08,"International Aid, Medical",Severe,9630
+Disaster 41,Wildfire,City 41,Japan,Asia,2021-02-27,2021-03-07,66790,765364365.86,"Food Aid, Medical Camp",Extreme,3021
+Disaster 42,Flood,Village 42,Australia,South America,2014-02-15,2014-03-02,87392,655386715.49,"International Aid, Medical",Moderate,592
+Disaster 43,Wildfire,City 43,Japan,Asia,2016-08-07,2016-09-06,343448,871251052.14,"International Aid, Medical",Extreme,9790
+Disaster 44,Tsunami,Town 44,Brazil,South America,2000-01-17,2000-01-20,176015,196336202.58,"Water Supply, Sanitation",Severe,5979
+Disaster 45,Flood,Village 45,Indonesia,Asia,2010-02-15,2010-02-27,561383,611863010.17,"Water Supply, Sanitation",Low,4954
+Disaster 46,Tsunami,Town 46,Indonesia,Asia,2014-08-26,2014-09-25,903363,598103955.2,"International Aid, Medical",Severe,9039
+Disaster 47,Wildfire,City 47,USA,Oceania,2012-01-01,2012-01-16,32334,578763757.5,"Water Supply, Sanitation",Severe,5767
+Disaster 48,Tsunami,Town 48,Australia,Asia,2017-05-28,2017-06-19,559829,23147123.58,"International Aid, Medical",Extreme,3108
+Disaster 49,Wildfire,Village 49,Indonesia,Asia,2018-07-25,2018-08-07,963619,511194126.76,"Evacuation, Shelter",Moderate,2272
+Disaster 50,Earthquake,City 50,Australia,Oceania,2012-12-07,2012-12-25,544103,476574453.85,"Water Supply, Sanitation",Low,7899
+Disaster 51,Wildfire,City 51,USA,Asia,2011-06-20,2011-07-10,948332,327431990.71,"International Aid, Medical",Moderate,5209
+Disaster 52,Earthquake,Town 52,Indonesia,Asia,2018-08-04,2018-08-13,660000,867618685.48,Rehabilitation Programs,Moderate,1452
+Disaster 53,Flood,Village 53,USA,Asia,2019-03-14,2019-04-08,632783,212757626.89,"Water Supply, Sanitation",Extreme,4800
+Disaster 54,Earthquake,City 54,Australia,Asia,2002-02-18,2002-03-19,183947,499849987.08,"Food Aid, Medical Camp",Low,3772
+Disaster 55,Earthquake,City 55,China,Asia,2001-11-10,2001-11-18,382227,771066975.4,"Food Aid, Medical Camp",Moderate,8226
